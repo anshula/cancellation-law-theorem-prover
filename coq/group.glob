@@ -1,0 +1,155 @@
+DIGEST 0047cf4fac454de4c2011a1fbecca234
+Fgroup
+R44:52 Coq.Sets.Ensembles <> <> lib
+sec 64:74 <> group_stuff
+var 87:87 group_stuff U
+rec 104:108 <> group
+proj 121:121 <> S
+proj 141:142 <> id
+proj 153:154 <> op
+proj 175:177 <> inv
+proj 193:198 <> closed
+proj 264:273 <> inv_exists
+proj 324:330 <> op_id_l
+proj 377:383 <> op_id_r
+proj 430:437 <> op_assoc
+proj 494:501 <> op_inv_l
+proj 554:561 <> op_inv_r
+R125:132 Coq.Sets.Ensembles <> Ensemble def
+R134:134 group <> group_stuff.U var
+R146:146 group <> group_stuff.U var
+R159:162 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R164:167 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R168:168 group <> group_stuff.U var
+R163:163 group <> group_stuff.U var
+R158:158 group <> group_stuff.U var
+R182:185 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R186:186 group <> group_stuff.U var
+R181:181 group <> group_stuff.U var
+R215:215 group <> group_stuff.U var
+R227:230 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R239:242 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R243:244 Coq.Sets.Ensembles <> In def
+R251:252 group <> op meth
+R256:256 group <> y var
+R254:254 group <> x var
+R248:248 group <> S meth
+R246:246 group <> group_stuff.U var
+R231:232 Coq.Sets.Ensembles <> In def
+R238:238 group <> y var
+R236:236 group <> S meth
+R234:234 group <> group_stuff.U var
+R219:220 Coq.Sets.Ensembles <> In def
+R226:226 group <> x var
+R224:224 group <> S meth
+R222:222 group <> group_stuff.U var
+R288:288 group <> group_stuff.U var
+R300:303 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R304:305 Coq.Sets.Ensembles <> In def
+R312:314 group <> inv meth
+R316:316 group <> x var
+R309:309 group <> S meth
+R307:307 group <> group_stuff.U var
+R292:293 Coq.Sets.Ensembles <> In def
+R299:299 group <> x var
+R297:297 group <> S meth
+R295:295 group <> group_stuff.U var
+R343:343 group <> group_stuff.U var
+R354:357 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R358:358 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R366:369 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R359:360 group <> op meth
+R365:365 group <> x var
+R362:363 group <> id meth
+R370:370 group <> x var
+R346:347 Coq.Sets.Ensembles <> In def
+R353:353 group <> x var
+R351:351 group <> S meth
+R349:349 group <> group_stuff.U var
+R396:396 group <> group_stuff.U var
+R407:410 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R411:411 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R419:422 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R412:413 group <> op meth
+R417:418 group <> id meth
+R415:415 group <> x var
+R423:423 group <> x var
+R399:400 Coq.Sets.Ensembles <> In def
+R406:406 group <> x var
+R404:404 group <> S meth
+R402:402 group <> group_stuff.U var
+R455:455 group <> group_stuff.U var
+R472:474 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R459:460 group <> op meth
+R465:466 group <> op meth
+R470:470 group <> z var
+R468:468 group <> y var
+R462:462 group <> x var
+R475:476 group <> op meth
+R487:487 group <> z var
+R479:480 group <> op meth
+R484:484 group <> y var
+R482:482 group <> x var
+R515:515 group <> group_stuff.U var
+R527:530 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R543:545 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R531:532 group <> op meth
+R542:542 group <> x var
+R535:537 group <> inv meth
+R539:539 group <> x var
+R546:547 group <> id meth
+R519:520 Coq.Sets.Ensembles <> In def
+R526:526 group <> x var
+R524:524 group <> S meth
+R522:522 group <> group_stuff.U var
+R575:575 group <> group_stuff.U var
+R587:590 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R603:605 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R591:592 group <> op meth
+R597:599 group <> inv meth
+R601:601 group <> x var
+R594:594 group <> x var
+R606:607 group <> id meth
+R579:580 Coq.Sets.Ensembles <> In def
+R586:586 group <> x var
+R584:584 group <> S meth
+R582:582 group <> group_stuff.U var
+def 627:634 <> is_group
+R640:647 Coq.Sets.Ensembles <> Ensemble def
+R649:649 group <> group_stuff.U var
+R657:657 group <> group_stuff.U var
+R666:667 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R669:670 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R671:671 group <> group_stuff.U var
+R668:668 group <> group_stuff.U var
+R665:665 group <> group_stuff.U var
+R681:682 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R683:683 group <> group_stuff.U var
+R680:680 group <> group_stuff.U var
+R697:703 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R711:712 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R706:710 group <> group rec
+R721:724 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R713:713 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R717:718 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R714:714 group <> S proj
+R716:716 group <> G var
+R719:720 group <> S' var
+R735:738 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R725:725 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R730:731 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R726:727 group <> id proj
+R729:729 group <> G var
+R732:734 group <> id' var
+R749:752 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R739:739 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R744:745 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R740:741 group <> op proj
+R743:743 group <> G var
+R746:748 group <> op' var
+R753:753 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R759:760 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R754:756 group <> inv proj
+R758:758 group <> G var
+R761:764 group <> inv' var
+R772:782 group group_stuff <> sec
